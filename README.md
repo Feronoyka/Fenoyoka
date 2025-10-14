@@ -3,17 +3,20 @@
 </div>  
   
 
-### <div align="center">HELLO, I'm Fenoyoka frontend engineer</div>  
+### <div align="center">HELLO, I'm Fenoyoka, I'm frontend engineer</div>  
   
 
--  📖 I’m currently learning fullstack engineer and UI UX design  
+-  💼At the moment I'm not working anywhere so I have to still learning  
+  
+
+- 📖 Currently I’m learning fullstack engineer and UI UX design  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -30,7 +33,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -41,10 +44,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -61,6 +60,7 @@
 
 
 ## That's all about me  
+That's all skills that I have rn, I'm not like cool dev, I'm learning courses from Udemy to grow faster cuz I wanna be a strong engineer for myself, soo if you feel weak or not sure of yourself, don't give up, repeat what you learnt, keep going, keep going, be strong dev than before, don't compare youself to others and final practice makes perfect, mistake makes improvement 😉  
 
 <br />
 
